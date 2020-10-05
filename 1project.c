@@ -44,9 +44,7 @@ int main()
                 break;
         }
     } while (choice != 0);
-
-
-    return 0;
+   return 0;
 }
 
 void add_student (){
